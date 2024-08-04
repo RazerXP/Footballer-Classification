@@ -1,5 +1,17 @@
 # Footballer-Classification
-Identifies footballers among a group of 5
+Identifies and classifies footballers among a group of 5
+
+## Requirements
+OpenCV
+
+              pip install opencv-python
+Scikit-learn
+    
+              pip install scikit-learn
+
+OpenCV Haarcascades Github xml files
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+              
 
 OpenCV to read images
 OpenCV Haarcascades to identify Faces and Eyes
