@@ -13,9 +13,9 @@ OpenCV Haarcascades Github xml files
 https://github.com/opencv/opencv/tree/master/data/haarcascades
               
 
-OpenCV to read images
-OpenCV Haarcascades to identify Faces and Eyes
-Uses SVM and Pipeline from Scikit-Learn library in Python
+OpenCV to read images\n
+OpenCV Haarcascades to identify Faces and Eyes\n
+Uses SVC and Pipeline from Scikit-Learn library in Python\n
 
 ## What it does
 In this data science and machine learning project, we classify 5 different Players playing for Manchester city football club,
