@@ -17,6 +17,7 @@ OpenCV to read images
 OpenCV Haarcascades to identify Faces and Eyes
 Uses SVM and Pipeline from Scikit-Learn library in Python
 
+## What it does
 In this data science and machine learning project, we classify 5 different Players playing for Manchester city football club,
 
 1) Kevin De Bruyne
@@ -26,7 +27,11 @@ In this data science and machine learning project, we classify 5 different Playe
 5) Rodri
 
 
-Technologies used in this project,
+## Usage
+To test clone this repo and add your image(s) to the "test images" folder. 
+Then run 'predictor.ipynb' notebook to find out the results.
+
+## Technologies Used
 
 1. Python
 2. Numpy and OpenCV for data cleaning
